@@ -1,0 +1,1 @@
+cmd_/home/bostjan/Documents/SPO/Kernel2/v12n1.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.8.0-25-generic/scripts/module-common.lds --build-id  -o /home/bostjan/Documents/SPO/Kernel2/v12n1.ko /home/bostjan/Documents/SPO/Kernel2/v12n1.o /home/bostjan/Documents/SPO/Kernel2/v12n1.mod.o
